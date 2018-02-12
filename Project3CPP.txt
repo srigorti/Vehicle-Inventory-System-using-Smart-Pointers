@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/car.cpp.o ./Debug/String.cpp.o
